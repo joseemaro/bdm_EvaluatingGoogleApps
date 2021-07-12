@@ -1,4 +1,4 @@
-# bdm_datasets
+# Evaluacion de apps de google play store aplicando preprocesamiento de datos y machine learning.
 
 ### Este repositorio contiene los dataset necesarios para el tp final, junto con los archivos donde se realizo el tratamiento de los datos de los mismos.
 Analisis en python de dataset "googleplaystore.csv" -> tpfinal_pre.ipynb
